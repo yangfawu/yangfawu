@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Dabble in fullstack development with React and Express being my current go-to's
+- Dabbling in fullstack development with React and Express being my current go-to's
 - Also interested in developing internal tools like compilers
 - Currently exploring [Three.js](https://threejs.org/) and playing with GPT-3 in a [React Native](https://reactnative.dev/) app
 
