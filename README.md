@@ -10,7 +10,7 @@
 
 ## My Languages
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangfawu&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangfawu)
 
 ## My Tools
 <!-- https://github.com/Ileriayo/markdown-badges#readme -->
