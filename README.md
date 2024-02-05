@@ -39,4 +39,5 @@
 
 - Email: [yangfa.wu1@gmail.com](mailto:yangfa.wu1@gmail.com)
 - LinkedIn: [@yangfa-wu](https://www.linkedin.com/in/yangfa-wu/)
-- Website: [https://yangfawu.github.io/](https://yangfawu.github.io/)
+- Website: [yangfawu.github.io/](https://yangfawu.github.io/)
+- Blog: [yangfawu-blog.vercel.app/](https://yangfawu-blog.vercel.app/)
