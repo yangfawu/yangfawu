@@ -1,12 +1,12 @@
 # Hi, I'm Yangfa! 👋
 
-### An aspiring Software Engineering student and programmer based in New York
+### A Software Engineer based in New York
 
 ## About Me
 
-- Expanding my fullstack development knowledge with Spring 🥬 and Angular 🅰️
-- Deep diving into Computer Vision 👁️ while sharpening my NumPy 🐍 skills
-- Studying Computer Networks 🗼 to deepen understanding of cloud infrastructure
+- Learning and building microservices with C#/.NET 💻
+- Studying the business logic behind auto 🚗 insurance
+- Appreciating the art of Laplacian Pyramids in Computer Vision 👁️
 
 ## My Languages
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -39,5 +39,5 @@
 
 - Email: [yangfa.wu1@gmail.com](mailto:yangfa.wu1@gmail.com)
 - LinkedIn: [@yangfa-wu](https://www.linkedin.com/in/yangfa-wu/)
-- Website: [yangfawu.github.io/](https://yangfawu.github.io/)
+<!-- - Website: [yangfawu.github.io/](https://yangfawu.github.io/) -->
 <!-- - Blog: [yangfawu-blog.vercel.app/](https://yangfawu-blog.vercel.app/) -->
